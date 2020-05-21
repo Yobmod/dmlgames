@@ -1,0 +1,21 @@
+{
+    "editor.formatOnSave": true,
+    "python.autoComplete.extraPaths": [
+        ".",
+        ".\\src",
+        ".\\games",
+        ".\\tests"
+    ],
+    "python.formatting.provider": "autopep8",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.pylamaEnabled": true,
+    "python.pythonPath": "C:\\Users\\Yobmod\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\dmlgames-wH0R5DCa-py3.7",
+    //"C:\\Users\\Customer\\AppData\\Local\\pypoetry\\Cache\\virtualenvs\\dmlapp-SA54dGKK-py3.7",
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "restructuredtext.confPath": ""
+}
